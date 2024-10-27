@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <string.h>  // For strcmp function
-#include <stdlib.h>  // For exit function
+#include <string.h>  
+#include <stdlib.h>  
 
 int main() {
     char ans[255]; 
